@@ -7,14 +7,14 @@ public class rownanie {
         if (name1 == name2) {
             System.out.println("yes");
         } else {
-            System.out.println("yes");
+            System.out.println("no");
         }
 
 
         if (i == l) {
             System.out.println("yes");
         } else {
-            System.out.println("yes");
+            System.out.println("no");
         }
     
     }
